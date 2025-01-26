@@ -4,6 +4,7 @@ version = "1.0.0"
 authors = []
 
 [addresses]
+aptos_move_addr = "76734b557f850d8b4a8a3a751083cc648bc4555e97f9a0e0a04f3dc67813f25c"
 
 [dev-addresses]
 
